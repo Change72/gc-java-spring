@@ -1,0 +1,14 @@
+server:
+  port: 8866
+spring:
+  application:
+    name: gc-rabbitmq-queue
+  rabbitmq:
+    host: 47.95.242.201
+    username: guest
+    password: guest
+
+logging:
+  level:
+    org: ERROR
+    
